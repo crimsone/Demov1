@@ -1,2 +1,13 @@
 # demo
- For demo purposes
+ 
+  For demo purposes
+
+# Features
+
+Reactjs
+Nextjs
+Xstate
+Tailwinds
+
+Spatie
+Passport
