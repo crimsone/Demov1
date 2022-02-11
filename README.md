@@ -11,3 +11,8 @@ Tailwinds
 
 Spatie
 Passport
+
+# What's in the bag
+
+Basic crud operations
+Login authentication
