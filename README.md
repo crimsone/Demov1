@@ -20,7 +20,7 @@ Login authentication
 ## Images
 
   ### Login page
-	![Login](web-demo/public/login_page.png)
+	![Login](https://github.com/crimsone/Demov1/blob/main/web-demo/public/login_page.png?raw=true)
 
   ### Dashboard page
-  ![Dashboard](https://github.com/crimsone/Demov1/blob/main/web-demo/public/login_page.png?raw=true)
+  ![Dashboard](https://github.com/crimsone/Demov1/blob/main/web-demo/public/dashboard_page.png?raw=true)
