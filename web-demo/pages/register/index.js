@@ -12,8 +12,8 @@ export default function Register() {
   return (
     <div className="min-w-full min-h-screen flex items-center justify-center">
       <div className="border-2 w-64 mx-auto my-auto shadow-md rounded-md">
-        <div className="m-4 text-center">
-          <p className=""><small className="font-bold text-red-500">DEMO</small><small className="font-bold">v1</small> <small>Login</small></p>
+        <div className="text-center bg-slate-700 rounded-t-md p-4 text-slate-100">
+          <p className=""><small className="font-bold text-red-500">DEMO </small><small className="font-bold">v1</small></p>
           <p className="text-xs capitalize antialiased">{process.env.environment}</p>
           <p className="font-semibold capitalize mt-2">Registration</p>
         </div>
