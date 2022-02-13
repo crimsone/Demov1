@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useState } from "react";
 import { useMachine } from '@xstate/react';
 import { dashboardMachine } from '../../xstate/dashboard';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
