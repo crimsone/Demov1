@@ -23,4 +23,4 @@ Login authentication
 	![Login](web-demo/public/login_page.png)
 
   ### Dashboard page
-  ![Dashboard](https://github.com/crimsone/Demov1/blob/main/web-demo/public/login.jpg?raw=true)
+  ![Dashboard](https://github.com/crimsone/Demov1/blob/main/web-demo/public/login_page.jpg?raw=true)
